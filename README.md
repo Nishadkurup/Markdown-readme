@@ -92,9 +92,54 @@ npm i
 
 
 // license
-The Apache License
+
+##### Public repositories on GitHub are often used to share open source .
+      software. For your repository to truly be open source, you need to
+      license it so that others are free to use, change, and distribute the
+      software.
+
+
+ 1. Copyright .
+
+ 2. Open source != Free    // use my code under guidelines it can used modified and share
+     1. U can decisied who can use how can be used .
+     2. improvement in your software 
+     3. Invite improvement
+     4. Use
+
+
+//Open source Licences : two types   1) copyleft  2) Permissive
+
+// How to decide what type of open source license to use ?
+  1. what license already in use in my software.
+  2. What are the terms of services where my software is to be hosted.
+  3. Do i want derivatives , additions and distribution to usr the same license ?.
+  4. Which licences to Use.
+
+// Example of open source license.
+** Permissive license**
+
+ 1.Apache/Apache 2.0 
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+ 2.  MIT 
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+** Weak Copy-left**
+
+1. Mozilla /Mozilla Public License 2.0
+
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+
+** Strong copy-left**
+
+1. Eclipse/Eclipse Public License 1.0
+
+[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
  
 
