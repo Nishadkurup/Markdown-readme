@@ -32,6 +32,7 @@ As Kanye West said:
 I think you should use an
 `<1645 parkwest drive 201 48162 monroe>` element here instead.
 
+
 <!--unorder List -->
 
 * Item 1      
@@ -88,6 +89,12 @@ npm i
 - [x] this is a complete item.
 - [ ]  this is an incomplete item.
 - [ ]  Urgent
+
+
+// license
+The Apache License
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
  
 
